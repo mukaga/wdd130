@@ -1,0 +1,120 @@
+
+
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <meta charset="utf-8" />
+  <title>Site Plan</title>
+  <link type="text/css" rel="stylesheet" href="styles/site-plan-rafting.css" />
+</head>
+
+<body>
+  <header>
+    <h1>[Dry Oar] Site Plan</h1>
+    <h2>[Mukaga Arafat]</h2>
+    <h2>WDD 130-[01]</h2>
+  </header>
+  <main>
+    
+    <hr />
+    <h2>Overview</h2>
+    <h3>Purpose</h3>
+    <p>[It is for all people having a fun vacation with you and your family/friends]</p>
+    
+
+    <h3>Audience</h3>
+    <p>[Families wanting to have fun for the Holidays, Friends old and young going on a vacation and for people loving the outdoors. The site can be accessed on a smartphone,computer and Laptop.]</p>
+    
+
+    <hr />
+    <h2>Branding</h2>
+    <h3>Website Logo</h3>
+    
+    <img src="c:\Users\ezeki\Downloads\yeCKSUtPf86YLRQe85ZekquK_8b88cac4c38b99f46293261cffbba24f.avif" alt="Logo image" />
+    <hr />
+    <h2>Style Guide</h2>
+
+
+    <h3>Color Palette</h3>
+
+    <p>Palette URL:</p>
+    <a href="https://coolors.co/555358-8ee3ef-7d83ff-ffddd2-d6a184"
+      target="_blank">https://coolors.co/0d1b2a-9cc5a1-415a77-778da9-6c0e23</a>
+
+    <table class="colors">
+      <tr>
+        <th>Primary</th>
+        <th>Secondary</th>
+        <th>Accent 1</th>
+        <th>Accent 2</th>
+      </tr>
+      
+      <tr>
+        <td class="primary">[#778DA9]</td>
+        <td class="secondary">[#0D1B2A]</td>
+        <td class="accent1">[#6C0E23]</td>
+        <td class="accent2"></td>
+      </tr>
+    </table>
+
+
+    <h3>Typography</h3>
+
+    <h4>
+      Heading Font: ["Rock Salt"]
+      
+    </h4>
+    <h4>
+      Paragraph Font: ["Roboto Slab"]
+      
+    </h4>
+    <h3>Normal paragraph example</h3>
+    <p>
+      The best Whitewater Rafting in Colorado, White Water Rafting Company
+      offers rafting on the Colorado and Roaring Fork Rivers in Glenwood
+      Springs. Since 1974, we have been family owned and operated, rafting the
+      Shoshone section of Glenwood Canyon and beyond.
+    </p>
+    <h3>Colored paragraph example</h3>
+    <p class="colored">
+      Trips vary from mild and great for families, to trips exclusively for
+      physically fit and experienced rafters. No matter what type of river
+      adventures you are seeking, White Water Rafting Company can make it
+      happen for you.
+    </p>
+
+
+    <h3>Navigation</h3>
+   
+      <a href="index.html">Home</a>
+      <a href="page.html">FAQ</a>
+      <a href="contactus.html">Contact Us</a>
+    </nav>
+    <hr />
+    <h2>Site Map</h2>
+    <div class="sitemap">
+      <div class="sm-home">Home</div>
+      <div class="sm-page2">
+        [FAQ]
+      </div>
+      <div class="sm-page3">Contact Us</div>
+
+      <div class="top">&nbsp;</div>
+      <div class="left">&nbsp;</div>
+      <div class="right">&nbsp;</div>
+    </div>
+    <hr />
+    <h2>Wireframes</h2>
+
+    <h3>Home</h3>
+
+    <img src="https://byui-wdd.github.io/wdd130/rafting_images/wireframe_home.png" alt="home page wireframe" />
+
+    <h3>[FAQ]</h3>
+
+    <img src="image/2023-02-23 (2).png" alt="page 2 wireframe">
+  </main>
+</body>
+
+</html>
